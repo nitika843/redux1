@@ -1,0 +1,35 @@
+.main{
+    max-width: 100%;
+    height: auto;
+    margin: 10px;
+     padding: 10px; 
+}
+
+
+
+.cart{
+    border: 2px;
+    border-radius: 5px;
+    max-width: 50%;
+    background-color: antiquewhite;
+    height: 100%;
+    padding: 20px;
+    padding-top: 40px;
+    margin-left: 350px;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.heading{
+    text-align: center;
+    color: chocolate;
+    padding-bottom: 20px;
+
+}
+
+
+.iphone{
+    height: 80px;
+    width: 80px;
+}
